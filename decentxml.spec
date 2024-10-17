@@ -5,7 +5,7 @@ Release:          9.0%{?dist}
 Summary:          XML parser optimized for round-tripping and code reuse
 License:          BSD
 
-URL:              http://code.google.com/p/%{name}
+URL:              https://code.google.com/p/%{name}
 Source0:          https://decentxml.googlecode.com/files/decentxml-1.4-src.zip
 # for running w3c conformance test suite
 Source1:          http://www.w3.org/XML/Test/xmlts20031210.zip
